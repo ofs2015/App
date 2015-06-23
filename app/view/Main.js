@@ -10,7 +10,7 @@ Ext.define('App.view.Main', {
 		activeItem:2,
         items: [
             {
-                title: '模板',
+                title: '模板121',
                 iconCls: 'home',
                 styleHtmlContent: true,
                 scrollable: true,
