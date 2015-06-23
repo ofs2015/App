@@ -1,0 +1,16 @@
+﻿{
+	success: true,
+	msg: "处理错误",
+	data:[
+		{
+			ProductId:1,
+			ProductName:"主板",
+			Price:700.00,
+			Stock:10,
+			comments:[
+				{CommentId: 1 ,Title: "评论1" ,Posttime: "2013-03-21 13:10:10" , Content: "评论内容" ,User: "用户1" ,ProductId: 1},
+				{CommentId: 2 ,Title: "评论2" ,Posttime: "2013-03-24 08:30:20" , Content: "评论内容" ,User: "用户2" ,ProductId: 1}
+			]
+		}
+	]
+}

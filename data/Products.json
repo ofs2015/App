@@ -1,0 +1,57 @@
+﻿{
+	success: true,
+	msg: "处理错误",
+	total:5,
+	data:[
+		{
+			ProductId:1,
+			ProductName:"主板",
+			Price:700.00,
+			Stock:10,
+			comments:[
+				{CommentId: 1 ,Title: "评论1" ,Posttime: "2013-03-21 13:10:10" , Content: "评论内容" ,User: "用户1" ,ProductId: 1},
+				{CommentId: 2 ,Title: "评论2" ,Posttime: "2013-03-24 08:30:20" , Content: "评论内容" ,User: "用户2" ,ProductId: 1}
+			]
+		},
+		{
+			ProductId:2,
+			ProductName:"手机",
+			Price:2000.00,
+			Stock:5,
+			comments:[
+				{CommentId: 3 ,Title: "评论3" ,Posttime: "2013-03-21 13:10:10" , Content: "评论内容" ,User: "用户3" ,ProductId: 2},
+				{CommentId: 4 ,Title: "评论4" ,Posttime: "2013-03-24 08:30:20" , Content: "评论内容" ,User: "用户4" ,ProductId: 2}
+			]
+		},
+		{
+			ProductId:3,
+			ProductName:"CPU",
+			Price:1000.00,
+			Stock:8,
+			comments:[
+				{CommentId: 5 ,Title: "评论5" ,Posttime: "2013-03-21 13:10:10" , Content: "评论内容" ,User: "用户5" ,ProductId: 3},
+				{CommentId: 6 ,Title: "评论6" ,Posttime: "2013-03-24 08:30:20" , Content: "评论内容" ,User: "用户6" ,ProductId: 3}
+			]
+		},
+		{
+			ProductId:4,
+			ProductName:"内存",
+			Price:300.00,
+			Stock:2,
+			comments:[
+				{CommentId: 7 ,Title: "评论7" ,Posttime: "2013-03-21 13:10:10" , Content: "评论内容" ,User: "用户7" ,ProductId: 4},
+				{CommentId: 8 ,Title: "评论8" ,Posttime: "2013-03-24 08:30:20" , Content: "评论内容" ,User: "用户8" ,ProductId: 4}
+			]
+		},
+		{
+			ProductId:5,
+			ProductName:"笔记本",
+			Price:4000.00,
+			Stock:6,
+			comments:[
+				{CommentId: 9 ,Title: "评论9" ,Posttime: "2013-03-21 13:10:10" , Content: "评论内容" ,User: "用户1" ,ProductId: 5},
+				{CommentId: 10 ,Title: "评论10" ,Posttime: "2013-03-24 08:30:20" , Content: "评论内容" ,User: "用户2" ,ProductId: 5}
+			]
+		}
+	]
+}
